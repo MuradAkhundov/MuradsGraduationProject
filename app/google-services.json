@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "734636079742",
+    "project_id": "muradsgraduationproject",
+    "storage_bucket": "muradsgraduationproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734636079742:android:583bb2f890c790e255f62f",
+        "android_client_info": {
+          "package_name": "com.example.muradsgraduationproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734636079742-aj8ftp3rmol4ua378j8ck44pt26fkeuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZZVFHK18ybczLHHSAHlKwM4vcOb1esTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734636079742-aj8ftp3rmol4ua378j8ck44pt26fkeuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
